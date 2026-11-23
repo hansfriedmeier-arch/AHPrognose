@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: AHPrognose
+## Notes: Price forecasts for the auction house from YOUR OWN scans (Auctionator, Auctioneer or TSM): what an item will cost in 1, 3 and 7 days, buy chances, sell tips (/ahp).
+## Notes-deDE: Preis-Prognosen fürs Auktionshaus aus DEINEN eigenen Scans (Auctionator, Auctioneer oder TSM): was ein Item in 1, 3 und 7 Tagen kosten wird, Kaufchancen, Verkaufstipps (/ahp).
+## Author: Nexxo-Ashenbow, Claude
+## Version: 1.1.1
+## SavedVariables: AHPrognoseDB
+## OptionalDeps: Auctionator, Auc-Advanced, TradeSkillMaster
+
+Model.lua
+Recipes.lua
+Sources.lua
+Core.lua
+UI.lua
