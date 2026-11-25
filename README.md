@@ -31,6 +31,10 @@ Linksklick auf ein Item = Detailfenster mit Verlauf und Erklärung, Rechtsklick 
 Unter [Releases](../../releases) die neueste Zip laden und nach `World of Warcraft/_forever_/Interface/AddOns/` entpacken.
 Bei einem Update mit **neuen Dateien** WoW komplett neu starten (ein `/reload` lädt neue Dateien nicht).
 
+**Mit WowUp (automatische Updates):** In WowUp WoW Forever auswählen → **Get Addons** → **Install from URL** →
+`https://github.com/hansfriedmeier-arch/AHPrognose` eintragen → installieren. WowUp holt danach jede neue Version von hier
+(es nimmt die Zip, die auf `-forever.zip` endet).
+
 ## Hinweise
 - Die Rezepte (`Recipes.lua`) stammen aus den Spieldaten des WoW-Forever-Clients.
 - Kaufchancen sind noch „nicht bewiesen“, bis die eingebaute Genauigkeitsprüfung genug Daten hat.
